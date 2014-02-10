@@ -1105,10 +1105,12 @@ containing a value of this type.
         public static final int fragment_1=0x7f030018;
         public static final int fragment_2=0x7f030019;
         public static final int fragment_3=0x7f03001a;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001b;
+        public static final int fragment_4=0x7f03001b;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001c;
     }
     public static final class menu {
-        public static final int main=0x7f0c0000;
+        public static final int fragment4=0x7f0c0000;
+        public static final int main=0x7f0c0001;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
@@ -1160,6 +1162,7 @@ containing a value of this type.
         public static final int fragment2=0x7f0a0012;
         public static final int fragment3=0x7f0a0013;
         public static final int hello_world=0x7f0a000f;
+        public static final int title_activity_fragment4=0x7f0a0016;
     }
     public static final class style {
         /** 

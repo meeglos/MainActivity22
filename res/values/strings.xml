@@ -10,5 +10,6 @@
     <string name="fragment3">Fragment 3</string>
     <string name="drawer_open">Menú Abierto</string>
     <string name="drawer_close">Menú Cerrado</string>
+    <string name="title_activity_fragment4">Fragment4</string>
 
 </resources>

@@ -36,7 +36,7 @@ public class MainActivity extends ActionBarActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		opcionesMenu = new String[] {"Opción 1", "Opción 2", "Opción 3"};
+		opcionesMenu = new String[] {"Opción 1", "Opción 2", "Opción 3", "Opción 4"};
         drawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawerList = (ListView) findViewById(R.id.left_drawer);
 
@@ -60,6 +60,9 @@ public class MainActivity extends ActionBarActivity {
 						break;
 					case 2:
 						fragment = new Fragment3();
+						break;
+					case 3:
+						fragment = new Fragment4();
 						break;
 				}
 
